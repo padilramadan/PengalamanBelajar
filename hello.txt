@@ -1,1 +1,2 @@
-hallo dunia untuk error agar terdapat conflict
+hallo world saja
+
